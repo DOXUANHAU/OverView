@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm DO XUAN HAU</h1>
-<h3 align="center">I'm a software engineer with cyber security passion.</h3>
+<h3 align="center">I'm a software engineer with cyber security passion and linux.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=doxuanhau&label=Profile%20views&color=0e75b6&style=flat" alt="doxuanhau" /> </p>
 
