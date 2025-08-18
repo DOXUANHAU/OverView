@@ -32,7 +32,7 @@
   <a/>
 
 </div>
-<hr/>
+<hr />
 
 
 <h3 align="left">💻 Tech Stack: </h3>
@@ -45,13 +45,12 @@
 <p>
 <img src="https://github-readme-stats.vercel.app/api?username=DOXUANHAU&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false"  alt="stats graph" alt="doxuanhau" /><p/>
 
-
-
-
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DOXUANHAU&theme=dracula&disable_animations=false" alt="doxuanhau" /></p>
 
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=DOXUANHAU&locale=en&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false"  alt="languages graph"  />
+
+  <img src="https://github-profile-trophy.vercel.app?username=DOXUANHAU&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
+
 
