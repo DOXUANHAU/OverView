@@ -50,7 +50,7 @@
 </div>
 
 
-<hr style="height:2px;"/>
+<hr style="height:2px"/>
 <div align="left">
   <h1>🏆 GitHub Trophies</h1>
   <p>
@@ -61,11 +61,10 @@
   </p>
 </div>
 
-<hr style="height:2px;"/>
+<hr style="height:2px"/>
 
 
 <h1>✍️  Cyber Quote<h1/>
-
 <div style="background-color: #000000; color: #00ff00; padding: 20px; border-radius: 10px; max-width: 700px; position: relative; font-family: Arial, sans-serif; box-shadow: 0 4px 8px rgba(0, 255, 0, 0.2); margin-bottom: 0;">
   <p style="font-size: 0.8em; line-height: 1.5; margin: 0 0 20px 0; position: relative; padding: 0 30px;">
     ' To apprehend a thief, one must master the cunning mindset of the thief '
@@ -74,7 +73,8 @@
 </div>
 
 
-<hr style="height: 2px; ">
+<hr style="height: 2px ">
+
 <h1 align="left" style="margin-top: 5px;">Support for me by Donating:</h1>
 <div style="display: flex; justify-content: space-between; align-items: center; width: 450px;">
   <a href="https://www.buymeacoffee.com/doxuanhau">
